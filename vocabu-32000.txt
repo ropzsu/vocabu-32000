@@ -13298,3 +13298,103 @@
  13298	wane
  13299	wannabe
  13300	warbler
+ 13301	warlock
+ 13302	warlord
+ 13303	warship
+ 13304	wart
+ 13305	wartime
+ 13306	wary
+ 13307	wasteland
+ 13308	watercraft
+ 13309	waterfowl
+ 13310	watermelon
+ 13311	wavelet
+ 13312	wean
+ 13313	weasel
+ 13314	weighting -> [weight]
+ 13315	welder
+ 13316	welt
+ 13317	werewolf
+ 13318	westerly
+ 13319	westward
+ 13320	whack
+ 13321	whence
+ 13322	wherefore
+ 13323	whey
+ 13324	whim
+ 13325	whimsical
+ 13326	whipping -> [whip]
+ 13327	whirl
+ 13328	whisk
+ 13329	whit
+ 13330	whiteboard
+ 13331	whitehead
+ 13332	whiten
+ 13333	whiz
+ 13334	whoa
+ 13335	wholesome
+ 13336	whoop
+ 13337	wicket
+ 13338	wield
+ 13339	wiener
+ 13340	wiggle
+ 13341	wildfire
+ 13342	wildflower
+ 13343	wilt -> [will]
+ 13344	wince
+ 13345	winch
+ 13346	windchill
+ 13347	winder
+ 13348	windmill
+ 13349	windscreen
+ 13350	windsurf
+ 13351	winger
+ 13352	wiretap
+ 13353	wisp
+ 13354	witchcraft
+ 13355	wither
+ 13356	wiz
+ 13357	wok
+ 13358	wolfram
+ 13359	womb
+ 13360	woodpecker
+ 13361	woodwind
+ 13362	woofer
+ 13363	wording -> [word]
+ 13364	workable
+ 13365	workbench
+ 13366	workman
+ 13367	workmanship
+ 13368	worldview
+ 13369	wort
+ 13370	wreak
+ 13371	wren
+ 13372	wrestler
+ 13373	wretched
+ 13374	wristband
+ 13375	writ -> [write]
+ 13376	xenon
+ 13377	yak
+ 13378	yam
+ 13379	yank
+ 13380	yawn
+ 13381	yearn
+ 13382	yogi
+ 13383	yoke
+ 13384	yucca
+ 13385	yummy
+ 13386	zap
+ 13387	zeal
+ 13388	zephyr
+ 13389	zillion
+ 13390	aardvark
+ 13391	abalone
+ 13392	abet
+ 13393	ablation
+ 13394	abode -> [abide]
+ 13395	abomination
+ 13396	aborigine
+ 13397	abreast
+ 13398	abscess
+ 13399	absenteeism
+ 13400	absinthe
