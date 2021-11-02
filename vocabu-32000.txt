@@ -14598,3 +14598,103 @@
  14598	femoral
  14599	femur
  14600	fend
+ 14601	fennel
+ 14602	ferocious
+ 14603	fervent
+ 14604	fervor
+ 14605	feta
+ 14606	fete
+ 14607	fetter
+ 14608	feudal
+ 14609	fez
+ 14610	fiasco
+ 14611	fib
+ 14612	fibrillation
+ 14613	fibrous
+ 14614	filigree
+ 14615	filly
+ 14616	filmstrip
+ 14617	filmy
+ 14618	financier
+ 14619	finesse
+ 14620	fingernail
+ 14621	finial
+ 14622	firebox
+ 14623	firefighting
+ 14624	firehouse
+ 14625	firepower
+ 14626	fireside
+ 14627	firestorm
+ 14628	firewood
+ 14629	firsthand
+ 14630	fishy
+ 14631	fissure
+ 14632	fistula
+ 14633	fitter -> [fit]
+ 14634	fixer
+ 14635	fizz
+ 14636	flagpole
+ 14637	flak
+ 14638	flaky
+ 14639	flashy
+ 14640	flatmate
+ 14641	flavoring -> [flavor]
+ 14642	fleck
+ 14643	fledged
+ 14644	fledgling
+ 14645	fleshy
+ 14646	flimsy
+ 14647	flipper -> [flip]
+ 14648	floater
+ 14649	flog
+ 14650	floodlight
+ 14651	florin
+ 14652	flowchart
+ 14653	flowery
+ 14654	flycatcher
+ 14655	flywheel
+ 14656	foggy
+ 14657	fondle
+ 14658	fondue
+ 14659	footballer
+ 14660	footing -> [foot]
+ 14661	footpath
+ 14662	footy
+ 14663	fop
+ 14664	foray
+ 14665	foreclose
+ 14666	forerunner
+ 14667	foreskin
+ 14668	foretell
+ 14669	forging -> [forge]
+ 14670	formaldehyde
+ 14671	formalism
+ 14672	forthwith
+ 14673	fortification
+ 14674	fortitude
+ 14675	forwarder -> [forward]
+ 14676	frail
+ 14677	framer
+ 14678	franchiser
+ 14679	francophone
+ 14680	frat
+ 14681	fraternal
+ 14682	fraught
+ 14683	freckle
+ 14684	freehand
+ 14685	freemasonry
+ 14686	freephone
+ 14687	freighter
+ 14688	freshener
+ 14689	fresher -> [fresh]
+ 14690	frigate
+ 14691	frill
+ 14692	frivolous
+ 14693	frolic
+ 14694	froth
+ 14695	fructose
+ 14696	fruition
+ 14697	fuchsia
+ 14698	fugue
+ 14699	fulcrum
+ 14700	fundamentalism
