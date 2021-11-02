@@ -2098,3 +2098,103 @@
   2098	province
   2099	pub
   2100	pull
+  2101	pump
+  2102	pure
+  2103	push
+  2104	qualify
+  2105	quantity
+  2106	quarter
+  2107	queen
+  2108	query
+  2109	rain
+  2110	ram
+  2111	random
+  2112	rapid
+  2113	rare
+  2114	ratio
+  2115	ray
+  2116	reaction
+  2117	reality
+  2118	realize
+  2119	reasonable
+  2120	recording -> [record]
+  2121	recovery
+  2122	recreation
+  2123	reduction
+  2124	reflect
+  2125	reform
+  2126	relevant
+  2127	reliable
+  2128	relief
+  2129	religion
+  2130	religious
+  2131	removal
+  2132	rent -> [rend]
+  2133	repeat
+  2134	replace
+  2135	replacement
+  2136	reservation
+  2137	resident
+  2138	residential
+  2139	respond
+  2140	responsibility -> [responsible]
+  2141	resume
+  2142	reveal
+  2143	revenue
+  2144	revise
+  2145	revision
+  2146	rich
+  2147	ride
+  2148	rose -> [rise]
+  2149	route
+  2150	router
+  2151	row
+  2152	royal
+  2153	rural
+  2154	saint
+  2155	salary
+  2156	salt
+  2157	satellite
+  2158	satisfy
+  2159	saving -> [save]
+  2160	saw -> [see]
+  2161	scan
+  2162	scene
+  2163	scheme
+  2164	scientific
+  2165	scope
+  2166	seal
+  2167	sec
+  2168	secondary
+  2169	secret
+  2170	secretary
+  2171	seed
+  2172	seminar
+  2173	senate
+  2174	sentence
+  2175	sequence
+  2176	serial
+  2177	seven
+  2178	sexual
+  2179	shape
+  2180	sharp
+  2181	shift
+  2182	shoot
+  2183	shopper
+  2184	shot -> [shoot]
+  2185	shower
+  2186	signature
+  2187	sing
+  2188	sister
+  2189	ski
+  2190	skip
+  2191	sky
+  2192	sleep
+  2193	slide
+  2194	slight
+  2195	slot
+  2196	slow
+  2197	smart
+  2198	smoke
+  2199	snow
+  2200	soccer
